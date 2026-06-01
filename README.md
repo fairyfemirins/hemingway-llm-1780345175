@@ -19,3 +19,5 @@ python hemingway.py --text "Your text here" --api-key YOUR_LLM_API_KEY
 
 ## License
 MIT
+## Note
+This repository was published under `fairyfemirins/hemingway-llm-1780345175` due to namespace restrictions in cron mode. See [TRANSFER.md](TRANSFER.md) for transfer instructions.
